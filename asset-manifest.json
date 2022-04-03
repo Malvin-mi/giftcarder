@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.22115c27.css",
-    "main.js": "/react-gh-pages/static/js/main.6cb760da.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.22115c27.css.map": "/react-gh-pages/static/css/main.22115c27.css.map",
-    "main.6cb760da.js.map": "/react-gh-pages/static/js/main.6cb760da.js.map"
+    "main.css": "/giftcarder/static/css/main.22115c27.css",
+    "main.js": "/giftcarder/static/js/main.6cb760da.js",
+    "index.html": "/giftcarder/index.html",
+    "main.22115c27.css.map": "/giftcarder/static/css/main.22115c27.css.map",
+    "main.6cb760da.js.map": "/giftcarder/static/js/main.6cb760da.js.map"
   },
   "entrypoints": [
     "static/css/main.22115c27.css",
